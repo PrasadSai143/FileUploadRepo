@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 123,
+            "userName": "testcustomer",
+            "password": "123456789",
+            "isVendorUser": 0
+        },
+        {
+            "id": 1234,
+            "userName": "testvendor",
+            "password": "123456789",
+            "isVendorUser": 1
+        }
+    ]
+}
